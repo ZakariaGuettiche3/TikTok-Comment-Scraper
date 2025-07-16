@@ -41,9 +41,3 @@ Replace the sample parameters in the `GET_Comments()` function call with:
 4. **`parser()`**: Extracts the `text` field from each comment.
 5. **`GET_Comments()`**: Main function to loop through all comment pages until `has_more == 0`.
 
----
-
-
-##  Author
-
-- **Zakaria Guettiche** 
