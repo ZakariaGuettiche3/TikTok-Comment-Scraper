@@ -31,9 +31,6 @@ Replace the sample parameters in the `GET_Comments()` function call with:
 - `stre`: The full TikTok comment API request URL copied from browser network tab.
 - `url`: The URL of the TikTok video.
 
-```python
-GET_Comments(<API_REQUEST_URL>, <VIDEO_URL>)
-```
 
 
 ##  How It Works
